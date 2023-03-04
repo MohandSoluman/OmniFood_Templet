@@ -1,6 +1,6 @@
 # OmniFood_Template
 
-### I made this template through course Build Responsive Real-World Websites with HTML and CSS
+#### I made this template through course Build Responsive Real-World Websites with HTML and CSS
 
 ### this the link of certificate
 
