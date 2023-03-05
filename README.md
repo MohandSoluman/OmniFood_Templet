@@ -2,7 +2,7 @@
 
 #### I made this template through course Build Responsive Real-World Websites with HTML and CSS
 
-### visit usthe website
+### I host the webSite on netlify :
 https://omnifood-mohand.netlify.app/
 
 #### this the link of certificate
